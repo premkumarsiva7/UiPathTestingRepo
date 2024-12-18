@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Employees",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "XpEUYe421UyllN6hhto6zg",
+  "Reference": "DnnDXD2P-EyJD6L-qsJTrw/XpEUYe421UyllN6hhto6zg",
+  "ParentRef": "DnnDXD2P-EyJD6L-qsJTrw/8dsveKJzEUqCASDf1tszPw",
+  "Created": "2024-12-17T00:28:30.2695368Z",
+  "Updated": "2024-12-17T00:28:30.2695368Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
