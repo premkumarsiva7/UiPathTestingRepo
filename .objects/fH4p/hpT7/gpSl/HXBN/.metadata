@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Message box",
+  "Description": "Message box",
+  "Type": "Element",
+  "TaxonomyType": "Messagebox",
+  "Id": "HXBNtKh4mkOl1I5BnyHmrg",
+  "Reference": "DnnDXD2P-EyJD6L-qsJTrw/HXBNtKh4mkOl1I5BnyHmrg",
+  "ParentRef": "DnnDXD2P-EyJD6L-qsJTrw/gpSloZ_7ME6c-0fvtjT61A",
+  "Created": "2024-12-18T01:16:08.7661501Z",
+  "Updated": "2024-12-18T01:16:08.7661501Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
